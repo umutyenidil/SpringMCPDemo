@@ -1,0 +1,499 @@
+[
+  {
+    "day": "Monday",
+    "time": "09:00 AM",
+    "title": "Keynote: The Future of Spring Framework 7",
+    "type": "Keynote",
+    "speakers": [
+      "Juergen Hoeller",
+      "Josh Long"
+    ],
+    "room": "Grand Ballroom"
+  },
+  {
+    "day": "Monday",
+    "time": "10:30 AM",
+    "title": "Mastering Project Loom and Virtual Threads",
+    "type": "Deep Dive",
+    "speakers": [
+      "Ron Pressler"
+    ],
+    "room": "Room A1"
+  },
+  {
+    "day": "Monday",
+    "time": "11:45 AM",
+    "title": "Cloud Native Java with GraalVM",
+    "type": "Technical",
+    "speakers": [
+      "Alina Yurenko"
+    ],
+    "room": "Room B2"
+  },
+  {
+    "day": "Monday",
+    "time": "01:30 PM",
+    "title": "Building Resilient Microservices",
+    "type": "Workshop",
+    "speakers": [
+      "Dr. Venkat Subramaniam"
+    ],
+    "room": "Lab 1"
+  },
+  {
+    "day": "Monday",
+    "time": "02:45 PM",
+    "title": "Security in the Age of AI",
+    "type": "Technical",
+    "speakers": [
+      "Rob Winch"
+    ],
+    "room": "Room C1"
+  },
+  {
+    "day": "Monday",
+    "time": "04:00 PM",
+    "title": "Event-Driven Systems with Kafka",
+    "type": "Deep Dive",
+    "speakers": [
+      "Viktor Gamov"
+    ],
+    "room": "Room A1"
+  },
+  {
+    "day": "Tuesday",
+    "time": "09:00 AM",
+    "title": "Scaling Kubernetes for the Enterprise",
+    "type": "Technical",
+    "speakers": [
+      "Kelsey Hightower"
+    ],
+    "room": "Grand Ballroom"
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:15 AM",
+    "title": "Reactive Programming Patterns",
+    "type": "Deep Dive",
+    "speakers": [
+      "Violeta Georgieva"
+    ],
+    "room": "Room B3"
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:30 AM",
+    "title": "Next-Gen Data Access with Spring Data",
+    "type": "Technical",
+    "speakers": [
+      "Mark Paluch"
+    ],
+    "room": "Room C2"
+  },
+  {
+    "day": "Tuesday",
+    "time": "01:00 PM",
+    "title": "The Art of Clean Code",
+    "type": "Soft Skills",
+    "speakers": [
+      "Robert C. Martin"
+    ],
+    "room": "Room A2"
+  },
+  {
+    "day": "Tuesday",
+    "time": "02:15 PM",
+    "title": "Modern Frontend for Java Devs",
+    "type": "Technical",
+    "speakers": [
+      "Matt Raible"
+    ],
+    "room": "Room B1"
+  },
+  {
+    "day": "Tuesday",
+    "time": "03:30 PM",
+    "title": "Observability with Micrometer",
+    "type": "Technical",
+    "speakers": [
+      "Jonatan Ivanov"
+    ],
+    "room": "Room C3"
+  },
+  {
+    "day": "Wednesday",
+    "time": "09:00 AM",
+    "title": "AI-Driven Development in 2026",
+    "type": "Keynote",
+    "speakers": [
+      "Sam Altman",
+      "Satya Nadella"
+    ],
+    "room": "Grand Ballroom"
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:30 AM",
+    "title": "Testing Strategies for Microservices",
+    "type": "Technical",
+    "speakers": [
+      "Cora Iberkleid"
+    ],
+    "room": "Room A1"
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:45 AM",
+    "title": "Advanced GraphQL in Spring Boot",
+    "type": "Deep Dive",
+    "speakers": [
+      "Rossen Stoyanchev"
+    ],
+    "room": "Room B2"
+  },
+  {
+    "day": "Wednesday",
+    "time": "01:30 PM",
+    "title": "Zero-Trust Architecture",
+    "type": "Security",
+    "speakers": [
+      "Eleftheria Batsou"
+    ],
+    "room": "Room C1"
+  },
+  {
+    "day": "Wednesday",
+    "time": "02:45 PM",
+    "title": "Hands-on with Spring AI",
+    "type": "Workshop",
+    "speakers": [
+      "Mark Pollack",
+      "Christian Tzolov"
+    ],
+    "room": "Lab 2"
+  },
+  {
+    "day": "Thursday",
+    "time": "09:30 AM",
+    "title": "Domain Driven Design in Practice",
+    "type": "Technical",
+    "speakers": [
+      "Eric Evans"
+    ],
+    "room": "Room A2"
+  },
+  {
+    "day": "Thursday",
+    "time": "11:00 AM",
+    "title": "WebAssembly and the Future of Web",
+    "type": "Technical",
+    "speakers": [
+      "Lin Clark"
+    ],
+    "room": "Room B3"
+  },
+  {
+    "day": "Thursday",
+    "time": "12:15 PM",
+    "title": "Serverless Java with AWS Lambda",
+    "type": "Technical",
+    "speakers": [
+      "James Beswick"
+    ],
+    "room": "Room C2"
+  },
+  {
+    "day": "Thursday",
+    "time": "02:00 PM",
+    "title": "Database Migration Best Practices",
+    "type": "Technical",
+    "speakers": [
+      "Vlad Mihalcea"
+    ],
+    "room": "Room B1"
+  },
+  {
+    "day": "Thursday",
+    "time": "03:15 PM",
+    "title": "Sustainable Software Engineering",
+    "type": "General",
+    "speakers": [
+      "Asim Hussain"
+    ],
+    "room": "Room A1"
+  },
+  {
+    "day": "Friday",
+    "time": "09:00 AM",
+    "title": "Functional Programming in Java",
+    "type": "Technical",
+    "speakers": [
+      "Mario Fusco"
+    ],
+    "room": "Room B2"
+  },
+  {
+    "day": "Friday",
+    "time": "10:15 AM",
+    "title": "Building CLI Tools with Spring Shell",
+    "type": "Technical",
+    "speakers": [
+      "Eric Bottard"
+    ],
+    "room": "Room C3"
+  },
+  {
+    "day": "Friday",
+    "time": "11:30 AM",
+    "title": "API Gateway Patterns",
+    "type": "Architecture",
+    "speakers": [
+      "Spencer Gibb"
+    ],
+    "room": "Room A2"
+  },
+  {
+    "day": "Friday",
+    "time": "01:00 PM",
+    "title": "Post-Mortem: Handling Production Failures",
+    "type": "Case Study",
+    "speakers": [
+      "Alice Goldfuss"
+    ],
+    "room": "Room B1"
+  },
+  {
+    "day": "Friday",
+    "time": "02:15 PM",
+    "title": "Migrating from Monolith to Modules",
+    "type": "Technical",
+    "speakers": [
+      "Oliver Drotbohm"
+    ],
+    "room": "Room C1"
+  },
+  {
+    "day": "Monday",
+    "time": "05:00 PM",
+    "title": "Networking Mixer",
+    "type": "Social",
+    "speakers": [
+      "Staff"
+    ],
+    "room": "Exhibition Hall"
+  },
+  {
+    "day": "Tuesday",
+    "time": "04:45 PM",
+    "title": "Open Source Contribution 101",
+    "type": "Panel",
+    "speakers": [
+      "Brian Goetz",
+      "Tagir Valeev"
+    ],
+    "room": "Room A3"
+  },
+  {
+    "day": "Wednesday",
+    "time": "04:00 PM",
+    "title": "The Evolution of HTTP/3",
+    "type": "Technical",
+    "speakers": [
+      "Daniel Stenberg"
+    ],
+    "room": "Room B2"
+  },
+  {
+    "day": "Thursday",
+    "time": "04:30 PM",
+    "title": "Java Flight Recorder in Production",
+    "type": "Technical",
+    "speakers": [
+      "Marcus Hirt"
+    ],
+    "room": "Room C2"
+  },
+  {
+    "day": "Monday",
+    "time": "12:00 PM",
+    "title": "Lunch Break",
+    "type": "Break",
+    "speakers": [],
+    "room": "Dining Hall"
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:00 PM",
+    "title": "Lunch Break",
+    "type": "Break",
+    "speakers": [],
+    "room": "Dining Hall"
+  },
+  {
+    "day": "Monday",
+    "time": "08:00 AM",
+    "title": "Registration",
+    "type": "Administrative",
+    "speakers": [],
+    "room": "Lobby"
+  },
+  {
+    "day": "Monday",
+    "time": "10:00 AM",
+    "title": "Coffee Break",
+    "type": "Break",
+    "speakers": [],
+    "room": "Foyer"
+  },
+  {
+    "day": "Monday",
+    "time": "02:00 PM",
+    "title": "Effective SQL for Java Developers",
+    "type": "Technical",
+    "speakers": [
+      "Lukas Eder"
+    ],
+    "room": "Room B3"
+  },
+  {
+    "day": "Tuesday",
+    "time": "08:30 AM",
+    "title": "Yoga for Developers",
+    "type": "Activity",
+    "speakers": [
+      "Zen Master"
+    ],
+    "room": "Roof Garden"
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:00 AM",
+    "title": "Securing OAuth2 in Spring",
+    "type": "Security",
+    "speakers": [
+      "Joe Grandja"
+    ],
+    "room": "Room A1"
+  },
+  {
+    "day": "Wednesday",
+    "time": "02:00 PM",
+    "title": "Introduction to Moduliths",
+    "type": "Technical",
+    "speakers": [
+      "Oliver Drotbohm"
+    ],
+    "room": "Room B2"
+  },
+  {
+    "day": "Wednesday",
+    "time": "03:15 PM",
+    "title": "Infrastructure as Code with Terraform",
+    "type": "Technical",
+    "speakers": [
+      "HashiCorp Expert"
+    ],
+    "room": "Room C3"
+  },
+  {
+    "day": "Thursday",
+    "time": "09:00 AM",
+    "title": "State of the Java Ecosystem",
+    "type": "Keynote",
+    "speakers": [
+      "Georges Saab"
+    ],
+    "room": "Grand Ballroom"
+  },
+  {
+    "day": "Thursday",
+    "time": "10:30 AM",
+    "title": "NoSQL Patterns for Java",
+    "type": "Technical",
+    "speakers": [
+      "Otavio Santana"
+    ],
+    "room": "Room B1"
+  },
+  {
+    "day": "Friday",
+    "time": "01:30 PM",
+    "title": "Designing Distributed Tracing",
+    "type": "Technical",
+    "speakers": [
+      "Marcin Grzejszczak"
+    ],
+    "room": "Room A3"
+  },
+  {
+    "day": "Friday",
+    "time": "03:00 PM",
+    "title": "The Road to JDK 30",
+    "type": "Keynote",
+    "speakers": [
+      "Mark Reinhold"
+    ],
+    "room": "Grand Ballroom"
+  },
+  {
+    "day": "Monday",
+    "time": "03:30 PM",
+    "title": "Batch Processing in 2026",
+    "type": "Technical",
+    "speakers": [
+      "Mahmoud Ben Hassine"
+    ],
+    "room": "Room C2"
+  },
+  {
+    "day": "Tuesday",
+    "time": "01:45 PM",
+    "title": "Property Based Testing",
+    "type": "Deep Dive",
+    "speakers": [
+      "Johannes Link"
+    ],
+    "room": "Room B2"
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:00 AM",
+    "title": "Spring Cloud Stream Deep Dive",
+    "type": "Technical",
+    "speakers": [
+      "Oleg Zhurakousky"
+    ],
+    "room": "Room A1"
+  },
+  {
+    "day": "Thursday",
+    "time": "02:30 PM",
+    "title": "Container Security Best Practices",
+    "type": "Security",
+    "speakers": [
+      "Liz Rice"
+    ],
+    "room": "Room B3"
+  },
+  {
+    "day": "Friday",
+    "time": "10:45 AM",
+    "title": "Quarkus vs Spring Boot",
+    "type": "Panel",
+    "speakers": [
+      "James Ward",
+      "Antonio Goncalves"
+    ],
+    "room": "Room A2"
+  },
+  {
+    "day": "Friday",
+    "time": "04:30 PM",
+    "title": "Closing Ceremony",
+    "type": "Keynote",
+    "speakers": [
+      "Conference Organizers"
+    ],
+    "room": "Grand Ballroom"
+  }
+]
